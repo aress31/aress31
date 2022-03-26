@@ -3,17 +3,15 @@
 <a href="https://github.com/aress31/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/alexandre-teyar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-## About Me
-
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### Current focus @ [Aegis Cyber](https://www.aegiscyber.co.uk/)
+## Current focus @ [Aegis Cyber](https://www.aegiscyber.co.uk/)
 
 **Managing Director** at [Aegis Cyber](https://www.aegiscyber.co.uk/) a fast-growing cyber security consultancy based in the UK and offering niche services such as blockchain security in addition to "more classical" services such as pentesting and compliance.
 
 [Aegis Cyber](https://www.aegiscyber.co.uk/) can assist with the most technical/bespoke challenges modern IT companies are facing.
 
-### Background
+## Background
 
 Alexandre is a diligent professional with integrity and well over 6 years of experience within the cyber security industry. He has worked for over a hundred different clients (ranging from small businesses to multinational corporations) operating across various industries including (but not limited to) banking and fintech.
 
@@ -36,6 +34,7 @@ Alexandre is OSCP, OSWE & CREST certified and has a keen personal interest in de
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
@@ -45,6 +44,7 @@ Alexandre is OSCP, OSWE & CREST certified and has a keen personal interest in de
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 
 ## Stats
 
