@@ -5,13 +5,13 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="30%" />
 
-## Current Focus @ [Aegis Cyber](https://www.aegiscyber.co.uk/)
+## 🎯 Current Focus @ [Aegis Cyber](https://www.aegiscyber.co.uk/)
 
 **Managing Director** at [Aegis Cyber](https://www.aegiscyber.co.uk/) a fast-growing cyber security consultancy based in the UK and offering niche services such as **blockchain security** in addition to "more traditional" services such as **pentesting and compliance**.
 
 [Aegis Cyber](https://www.aegiscyber.co.uk/) can assist with the most technical/bespoke challenges modern IT companies are facing.
 
-## Background
+## 📖 Background
 
 Alexandre is a diligent professional with integrity and well over 6 years of experience within the cyber security industry. He has worked for over a hundred different clients (ranging from small businesses to multinational corporations) operating across various industries including (but not limited to) banking and fintech.
 
@@ -22,7 +22,13 @@ Alexandre is **OSCP, OSWE & CREST certified** and has a keen personal interest i
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
-## Languages and Tools
+## 📈 Statistics
+
+<img alt="aress31 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aress31&count_private=true&hide_border=false&hide_title=false&include_all_commits=true&show_icons=true&theme=tokyonight" />
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aress31&hide=html&layout=compact&theme=tokyonight" />
+<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=aress31&column=7&margin-h=8&margin-w=8&theme=tokyonight" />
+
+## 👨🏻‍💻 Technologies and Tools
 
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
@@ -45,12 +51,6 @@ Alexandre is **OSCP, OSWE & CREST certified** and has a keen personal interest i
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-
-## Statistics
-
-<img alt="aress31 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aress31&count_private=true&hide_border=false&hide_title=false&include_all_commits=true&show_icons=true&theme=tokyonight" />
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aress31&hide=html&layout=compact&theme=tokyonight" />
-<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=aress31&column=7&margin-h=8&margin-w=8&theme=tokyonight" />
 
 <!--
 ### Hi there 👋
