@@ -46,7 +46,7 @@ Alexandre is **OSCP, OSWE & CREST certified** and has a keen personal interest i
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 
-## Stats
+## Statistics
 
 <img alt="aress31 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aress31&count_private=true&hide_border=false&hide_title=false&include_all_commits=true&show_icons=true&theme=tokyonight" />
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aress31&hide=html&layout=compact&theme=tokyonight" />
