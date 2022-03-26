@@ -17,7 +17,7 @@ Alexandre is a diligent professional with integrity and well over 6 years of exp
 
 In addition to his extensive experience within the private sector, Alexandre has also worked on various state-related projects for foreign countries where he helped them secure sensitive digital assets.
 
-Alexandre is OSCP, OSWE & CREST certified and has a keen personal interest in developing all kinds of offensive security tools, many of which quickly became widely used within the cyber security community this includes (but not limited to) three (3) BurpSuite plugins and WireSpy (which was advertised on Pentest Academy).
+Alexandre is **OSCP, OSWE & CREST certified** and has a keen personal interest in developing all kinds of offensive security tools, many of which quickly became widely used within the cyber security community this includes (but not limited to) three (3) BurpSuite plugins and WireSpy (which was advertised on Pentest Academy).
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
