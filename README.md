@@ -48,7 +48,7 @@ Alexandre is **OSCP, OSWE & CREST certified** and has a keen personal interest i
 
 ## Stats
 
-![aress31's GitHub stats](https://github-readme-stats.vercel.app/api?username=aress31&count_private=true&hide_border=false&hide_title=false&show_icons=true&theme=tokyonight)
+[![aress31's GitHub stats](https://github-readme-stats.vercel.app/api?username=aress31&count_private=true&hide_border=false&hide_title=false&show_icons=true&theme=tokyonight)](https://github.com/aress31/aress31)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aress31&hide=html&layout=compact&theme=tokyonight)](https://github.com/aress31/aress31)
 [![trophy](https://github-profile-trophy.vercel.app/?username=aress31&theme=tokyonight)](https://github.com/aress31/aress31)
 
