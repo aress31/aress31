@@ -46,11 +46,14 @@ Alexandre is OSCP, OSWE & CREST certified and has a keen personal interest in de
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 
+## Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aress31&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Stats
 
-![aress31's GitHub stats](https://github-readme-stats.vercel.app/api?username=aress31&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aress31&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=aress31)](https://github.com/ryo-ma/github-profile-trophy)
+![aress31's GitHub stats](https://github-readme-stats.vercel.app/api?username=aress31&count_private=true&hide_border=false&hide_title=false&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aress31&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aress31&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 ### Hi there 👋
