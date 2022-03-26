@@ -3,7 +3,7 @@
 <a href="https://github.com/aress31/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/alexandre-teyar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="30%" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="30%">
 
 ## 🎯 Current Focus @ [Aegis Cyber](https://www.aegiscyber.co.uk/)
 
@@ -24,9 +24,9 @@ Alexandre is **OSCP, OSWE & CREST certified** and has a keen personal interest i
 
 ## 📈 Statistics
 
-<img alt="aress31 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aress31&count_private=true&hide_border=false&hide_title=false&include_all_commits=true&show_icons=true&theme=tokyonight" />
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aress31&hide=html&layout=compact&theme=tokyonight" />
-<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=aress31&column=7&margin-h=8&margin-w=8&theme=tokyonight" />
+<img alt="aress31 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aress31&count_private=true&hide_border=false&hide_title=false&include_all_commits=true&show_icons=true&theme=tokyonight">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aress31&hide=html&layout=compact&theme=tokyonight">
+<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=aress31&column=7&margin-h=8&margin-w=8&theme=tokyonight">
 
 ## 👨🏻‍💻 Technologies and Tools
 
