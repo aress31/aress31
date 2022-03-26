@@ -31,7 +31,7 @@ Show some ❤️ by starring some of the repositories.
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aress31&hide=html&layout=compact&theme=tokyonight">
 <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=aress31&column=7&margin-h=8&margin-w=8&theme=tokyonight">
 
-## 👨🏻‍💻 Technologies and Tools
+## 👨🏻‍💻 Technologies
 
 💬 The following list is not exhaustive.
 
