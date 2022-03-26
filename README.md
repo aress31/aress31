@@ -7,7 +7,7 @@
 
 ## Current Focus @ [Aegis Cyber](https://www.aegiscyber.co.uk/)
 
-**Managing Director** at [Aegis Cyber](https://www.aegiscyber.co.uk/) a fast-growing cyber security consultancy based in the UK and offering niche services such as blockchain security in addition to "more classical" services such as pentesting and compliance.
+**Managing Director** at [Aegis Cyber](https://www.aegiscyber.co.uk/) a fast-growing cyber security consultancy based in the UK and offering niche services such as **blockchain security** in addition to "more traditional" services such as **pentesting and compliance**.
 
 [Aegis Cyber](https://www.aegiscyber.co.uk/) can assist with the most technical/bespoke challenges modern IT companies are facing.
 
