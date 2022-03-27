@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme
+        uses: pemtajo/badge-readme@main
         with:
           # Optional, 110x110 default
           BADGE_SIZE: 96x96
