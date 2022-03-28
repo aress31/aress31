@@ -14,6 +14,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           # Optional, 110x110 default
-          BADGE_SIZE: 96x96
+          BADGE_SIZE: 96
           # Optional, but default will use the same from GitHub
           CREDLY_USER: alexandre-teyar 
