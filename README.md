@@ -22,8 +22,8 @@ Alexandre is **OSCP, OSWE & CREST certified** and has a keen personal interest i
 
 <!--START_SECTION:badges-->
 
-[![Offensive Security Web Expert (OSWE)](https://images.credly.com/size/96x96x96x96/images/c8c413ce-fce6-4b61-89e6-6a1b9f1e358a/AWAE-OSWE-badge.png)](http://www.credly.com/badges/654e5bc5-0fbe-4d17-ab44-93331a1fc365 "Offensive Security Web Expert (OSWE)")
-[![Offensive Security Certified Professional (OSCP)](https://images.credly.com/size/96x96x96x96/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png)](http://www.credly.com/badges/1064ddf3-8305-4f17-bc79-72f1e9f86408 "Offensive Security Certified Professional (OSCP)")
+[![Offensive Security Web Expert (OSWE)](https://images.credly.com/size/96x96/images/c8c413ce-fce6-4b61-89e6-6a1b9f1e358a/AWAE-OSWE-badge.png)](http://www.credly.com/badges/654e5bc5-0fbe-4d17-ab44-93331a1fc365 "Offensive Security Web Expert (OSWE)")
+[![Offensive Security Certified Professional (OSCP)](https://images.credly.com/size/96x96/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png)](http://www.credly.com/badges/1064ddf3-8305-4f17-bc79-72f1e9f86408 "Offensive Security Certified Professional (OSCP)")
 <!--END_SECTION:badges-->
 
 ## 📈 Statistics
