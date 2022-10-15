@@ -2,7 +2,9 @@
 
 <a alt="GitHub" href="https://github.com/aress31/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square"></a>
 <a alt="LinkedIn" href="https://www.linkedin.com/in/alexandre-teyar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5.svg?logo=linkedin&style=flat-square"></a>
-<a alt="Aegis Cyber" href="https://www.aegiscyber.co.uk/" target="_blank"><img src="https://img.shields.io/badge/website-Aegis%20Cyber-d32f2f.svg?style=flat-square"></a>
+<a alt="Aegis Cyber" href="https://www.aegiscyber.co.uk/" target="_blank"><img src="https://img.shields.io/badge/Website-Aegis%20Cyber-d32f2f.svg?style=flat-square"></a>
+<br />
+[![Update badges](https://github.com/aress31/aress31/actions/workflows/main.yml/badge.svg)](https://github.com/aress31/aress31/actions/workflows/main.yml)
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="30%">
 
@@ -21,8 +23,10 @@ In addition to his extensive experience within the private sector, Alexandre has
 Alexandre is **OSCP, OSWE & CREST certified** and has a keen personal interest in developing all kinds of offensive security tools, many of which quickly became widely used within the cyber security community this includes (but not limited to) three (3) BurpSuite plugins and WireSpy (which was advertised on Pentest Academy).
 
 <!--START_SECTION:badges-->
+
 [![Offensive Security Web Expert (OSWE)](https://images.credly.com/size/96x96/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png)](http://www.credly.com/badges/654e5bc5-0fbe-4d17-ab44-93331a1fc365 "Offensive Security Web Expert (OSWE)")
 [![Offensive Security Certified Professional (OSCP)](https://images.credly.com/size/96x96/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png)](http://www.credly.com/badges/1064ddf3-8305-4f17-bc79-72f1e9f86408 "Offensive Security Certified Professional (OSCP)")
+
 <!--END_SECTION:badges-->
 
 ## 📈 Statistics
