@@ -24,13 +24,15 @@ Alexandre is **OSCP, OSWE & CREST certified** and has a keen personal interest i
 
 ## 🎓 Certifications
 
+Behold my badges of honor! 🎖️
+
 [![Accredible Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/63789602)](https://www.credential.net/profile/alexandre-teyar/wallet)
 [![Accredible Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50401617)](https://www.credential.net/profile/alexandre-teyar/wallet)
 [![Accredible Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50401616)](https://www.credential.net/profile/alexandre-teyar/wallet)
 
 ## 📈 Statistics
 
-Show some ❤️ by starring some of the repositories.
+Give my repositories some 💖 by giving them a ⭐️!
 
 <img alt="aress31 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aress31&count_private=true&hide_border=false&hide_title=false&include_all_commits=true&show_icons=true&theme=tokyonight">
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aress31&hide=html&layout=compact&theme=tokyonight">
@@ -38,7 +40,7 @@ Show some ❤️ by starring some of the repositories.
 
 ## 👨🏻‍💻 Technologies
 
-💬 The following list is not exhaustive.
+Here's just a sneak peek at my tech stack, but don't let that fool you, my skills go beyond what's on this list! 😏
 
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
