@@ -10,17 +10,13 @@
 
 ## 🎯 Current Focus @ [Aegis Cyber](https://www.aegiscyber.co.uk/)
 
-**Managing Director** at [Aegis Cyber](https://www.aegiscyber.co.uk/) a fast-growing cyber security consultancy based in the UK and offering niche services such as **blockchain security** in addition to "more traditional" services such as **pentesting and compliance**.
-
-[Aegis Cyber](https://www.aegiscyber.co.uk/) can assist with the most technical/bespoke challenges modern IT companies are facing.
+As the Managing Director of [Aegis Cyber](https://www.aegiscyber.co.uk/), a UK-based cyber security consultancy, Alexandre leads a team that offers a range of specialized services, including blockchain security, pentesting, and compliance. Aegis Cyber is dedicated to helping modern IT companies tackle their most challenging and bespoke cyber security issues.
 
 ## 📖 Background
 
-Alexandre is a diligent professional with integrity and well over 6 years of experience within the cyber security industry. He has worked for over a hundred different clients (ranging from small businesses to multinational corporations) operating across various industries including (but not limited to) banking and fintech.
+Alexandre is a cyber security wizard with over 6 years of experience working with a diverse range of clients, from small businesses to large multinationals in industries such as banking and fintech. He's also lent his expertise to help secure sensitive digital assets for foreign countries.
 
-In addition to his extensive experience within the private sector, Alexandre has also worked on various state-related projects for foreign countries where he helped them secure sensitive digital assets.
-
-Alexandre is **OSCP, OSWE & CREST certified** and has a keen personal interest in developing all kinds of offensive security tools, many of which quickly became widely used within the cyber security community this includes (but not limited to) three (3) BurpSuite plugins and WireSpy (which was advertised on Pentest Academy).
+When he's not defending against cyber threats, you can find him developing all sorts of offensive security tools that are widely used within the community. He holds certifications such as OSCP, OSWE & CREST, and is known for creating [popular tools](https://github.com/aress31?tab=repositories) like BurpSuite plugins and WireSpy (which even got advertised on [Pentest Academy](https://www.pentesteracademy.com/)!.
 
 ## 🎓 Certifications
 
