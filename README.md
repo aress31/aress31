@@ -9,7 +9,7 @@
 
 ## 🎯 Current Focus @ [Aegis Cyber](https://www.aegiscyber.co.uk/)
 
-As the Managing Director of [Aegis Cyber](https://www.aegiscyber.co.uk/), a UK-based cyber security consultancy, Alexandre leads a team that offers a range of specialized services, including blockchain security, pentesting, and compliance. Aegis Cyber is dedicated to helping modern IT companies tackle their most challenging and bespoke cyber security issues.
+As the Managing Director of [Aegis Cyber](https://www.aegiscyber.co.uk/), a UK-based cyber security consultancy, Alexandre leads a team that provides a range of specialised services, including blockchain security, pentesting, and compliance. Aegis Cyber is committed to assisting modern IT companies in addressing their most challenging and bespoke cyber security issues.
 
 ## 📖 Background
 
