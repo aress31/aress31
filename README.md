@@ -15,7 +15,7 @@ As the Managing Director of [Aegis Cyber](https://www.aegiscyber.co.uk/), a UK-b
 
 Alexandre is a cyber security wizard with over 6 years of experience working with a diverse range of clients, from small businesses to large multinationals in industries such as banking and fintech. He's also lent his expertise to help secure sensitive digital assets for foreign countries.
 
-When he's not defending against cyber threats, you can find him developing all sorts of offensive security tools that are widely used within the community. He holds certifications such as OSCP, OSWE & CREST, and is known for creating [popular tools](https://github.com/aress31?tab=repositories) like BurpSuite plugins and WireSpy (which even got advertised on [Pentest Academy](https://www.pentesteracademy.com/)!.
+When he's not defending against cyber threats, you can find him developing all sorts of offensive security tools that are widely used within the community. He holds certifications such as OSCP, OSWE & CREST, and is known for creating [popular tools](https://github.com/aress31?tab=repositories) like BurpSuite plugins and WireSpy (which even got advertised on [Pentest Academy](https://www.pentesteracademy.com/)!).
 
 ## 🎓 Certifications
 
