@@ -21,6 +21,7 @@ When he's not defending against cyber threats, you can find him developing all s
 
 Behold my badges of honor! 🎖️
 
+[![Accredible Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73340199)](https://www.credential.net/profile/alexandre-teyar/wallet)
 [![Accredible Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/63789602)](https://www.credential.net/profile/alexandre-teyar/wallet)
 [![Accredible Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50401617)](https://www.credential.net/profile/alexandre-teyar/wallet)
 [![Accredible Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50401616)](https://www.credential.net/profile/alexandre-teyar/wallet)
