@@ -82,5 +82,6 @@ Outside client work, I build practical security tools used by the community, inc
 ---
 
 <p align="center">
-  <strong>Security work should be practical, precise, and useful to the people who have to ship the fix.</strong>
+  <strong>"The net is vast and infinite."</strong><br />
+  <sub>Ghost in the Shell</sub>
 </p>
