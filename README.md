@@ -1,79 +1,86 @@
-# Hey 👋, I'm aress31!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Alexandre+Teyar;Offensive+Security+%26+Blockchain+Security;Builder+of+practical+security+tools" alt="Alexandre Teyar - Offensive Security and Blockchain Security" />
+</p>
 
-<a alt="GitHub" href="https://github.com/aress31/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square"></a>
-<a alt="LinkedIn" href="https://www.linkedin.com/in/alexandre-teyar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5.svg?logo=linkedin&style=flat-square"></a>
-<a alt="Aegis Cyber" href="https://www.aegiscyber.co.uk/" target="_blank"><img src="https://img.shields.io/badge/Website-Aegis%20Cyber-d32f2f.svg?style=flat-square"></a>
-<br />
+<p align="center">
+  <a href="https://github.com/aress31">
+    <img src="https://img.shields.io/badge/GitHub-aress31-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexandre-teyar">
+    <img src="https://img.shields.io/badge/LinkedIn-Alexandre%20Teyar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+  </a>
+  <a href="https://www.aegiscyber.co.uk/">
+    <img src="https://img.shields.io/badge/Aegis%20Cyber-Consultancy-ef4444?style=for-the-badge" alt="Aegis Cyber" />
+  </a>
+</p>
 
-<img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="20%">
+<p align="center">
+  <img width="100%" src="./assets/profile-banner.svg" alt="Pixel art security workstation banner" />
+</p>
 
-## 🎯 Current Focus @ [Aegis Cyber](https://www.aegiscyber.co.uk/)
+---
 
-As the Managing Director of [Aegis Cyber](https://www.aegiscyber.co.uk/), a UK-based cyber security consultancy, Alexandre leads a team that provides a range of specialised services, including blockchain security, pentesting, and compliance. Aegis Cyber is committed to assisting modern IT companies in addressing their most challenging and bespoke cyber security issues.
+## Security consultant, toolmaker, and Managing Director at [Aegis Cyber](https://www.aegiscyber.co.uk/)
 
-## 📖 Background
+I help teams find and fix security issues across web applications, blockchain systems, infrastructure, and compliance-heavy environments. My work sits close to real-world attack paths: offensive security, secure design reviews, tooling, and clear reporting that engineering teams can act on.
 
-Alexandre is a cyber security wizard with over 6 years of experience working with a diverse range of clients, from small businesses to large multinationals in industries such as banking and fintech. He's also lent his expertise to help secure sensitive digital assets for foreign countries.
+Outside client work, I build practical security tools used by the community, including [Burp Suite extensions](https://github.com/aress31?tab=repositories&q=burp&type=&language=&sort=stargazers) and [WireSpy](https://github.com/aress31/wirespy), which has been featured by [Pentester Academy](https://www.pentesteracademy.com/).
 
-When he's not defending against cyber threats, you can find him developing all sorts of offensive security tools that are widely used within the community. He holds certifications such as OSCP, OSWE & CREST, and is known for creating [popular tools](https://github.com/aress31?tab=repositories) like BurpSuite plugins and WireSpy (which even got advertised on [Pentest Academy](https://www.pentesteracademy.com/)!).
+|                |                                                                                                               |
+| -------------- | ------------------------------------------------------------------------------------------------------------- |
+| Focus          | Offensive security, blockchain security, pentesting, compliance                                               |
+| Experience     | 10+ years across banking, fintech, government, and high-risk systems                                          |
+| Certifications | [OSCP, OSWE, CREST, Black Hat trainings, and more](https://www.credential.net/profile/alexandre-teyar/wallet) |
+| Company        | [Aegis Cyber](https://www.aegiscyber.co.uk/), UK                                                              |
 
-## 🎓 Certifications
+## Project Highlight
 
-Behold my badges of honor! 🎖️
+[BurpGPT](https://github.com/aress31/burpgpt) is a Burp Suite extension that brought LLM-assisted passive analysis into web security testing workflows early, before this became a common pattern in offensive tooling. It remains one of my most widely used public projects and reflects how I like to work: applying emerging technology where it creates practical security value.
 
-[![Accredible Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73340199)](https://www.credential.net/profile/alexandre-teyar/wallet)
-[![Accredible Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/63789602)](https://www.credential.net/profile/alexandre-teyar/wallet)
-[![Accredible Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50401617)](https://www.credential.net/profile/alexandre-teyar/wallet)
-[![Accredible Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50401616)](https://www.credential.net/profile/alexandre-teyar/wallet)
+## What I Work On
 
-## 📈 Statistics
+| Area                | Work                                                                    |
+| ------------------- | ----------------------------------------------------------------------- |
+| Offensive security  | Web, API, infrastructure, and cloud-oriented assessments                |
+| Blockchain security | Smart contract and protocol review, threat modelling, exploit analysis  |
+| Security tooling    | Burp Suite plugins, research utilities, automation, offensive workflows |
+| Advisory            | Clear technical guidance for modern teams handling sensitive systems    |
 
-Give my repositories some 💖 by giving them a ⭐️!
+## Certifications
 
-<img alt="aress31 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aress31&count_private=true&hide_border=false&hide_title=false&include_all_commits=true&show_icons=true&theme=tokyonight">
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aress31&hide=html&layout=compact&theme=tokyonight">
-<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=aress31&column=7&margin-h=8&margin-w=8&theme=tokyonight">
+<p>
+  <a href="https://www.credential.net/profile/alexandre-teyar/wallet">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73340199" width="145" alt="Accredible certification badge" />
+  </a>
+  <a href="https://www.credential.net/profile/alexandre-teyar/wallet">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/63789602" width="145" alt="Accredible certification badge" />
+  </a>
+  <a href="https://www.credential.net/profile/alexandre-teyar/wallet">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50401617" width="145" alt="Accredible certification badge" />
+  </a>
+  <a href="https://www.credential.net/profile/alexandre-teyar/wallet">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50401616" width="145" alt="Accredible certification badge" />
+  </a>
+</p>
 
-## 👨🏻‍💻 Technologies
+<sub>Selected certifications. More available in the [credential wallet](https://www.credential.net/profile/alexandre-teyar/wallet).</sub>
 
-Here's just a sneak peek at my tech stack, but don't let that fool you, my skills go beyond what's on this list! 😏
+## Tech I Use
 
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,bash,powershell,cs,c,js,rust,docker,php,androidstudio,linux,git,solidity&perline=7" alt="Technology stack icons" />
+</p>
 
-<!--
-### Hi there 👋
+<sub>Selected from public repositories and day-to-day security work. More available across client work, research, and private tooling.</sub>
 
-<!--
-**aress31/aress31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Signal
 
-Here are some ideas to get you started:
+<p align="center">
+  <img width="720" src="https://ghstats.dev/api/card?username=aress31&theme=tokyonight&hide_border=true&border_radius=12&custom_title=GitHub%20Signal" alt="aress31 GitHub signal card" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <strong>Security work should be practical, precise, and useful to the people who have to ship the fix.</strong>
+</p>

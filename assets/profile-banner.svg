@@ -1,0 +1,116 @@
+<svg width="960" height="240" viewBox="0 0 960 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Pixel art security workstation banner</title>
+  <desc id="desc">Animated pixel art banner showing a security workstation, terminal windows, and a night city backdrop.</desc>
+
+  <style>
+    .pixel { shape-rendering: crispEdges; }
+    .blink { animation: blink 1.4s steps(1) infinite; }
+    .cursor { animation: cursor 1s steps(1) infinite; }
+    .float { animation: float 5s ease-in-out infinite; }
+    .scan { animation: scan 6s linear infinite; }
+    .pulse { animation: pulse 2.2s ease-in-out infinite; }
+
+    @keyframes blink {
+      0%, 46% { opacity: 1; }
+      47%, 100% { opacity: .25; }
+    }
+
+    @keyframes cursor {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-6px); }
+    }
+
+    @keyframes scan {
+      from { transform: translateY(-240px); }
+      to { transform: translateY(240px); }
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: .45; }
+      50% { opacity: 1; }
+    }
+  </style>
+
+  <rect width="960" height="240" rx="16" fill="#0B1020"/>
+  <rect x="1" y="1" width="958" height="238" rx="15" stroke="#1E40AF" stroke-opacity=".55" stroke-width="2"/>
+  <rect width="960" height="240" rx="16" fill="url(#bgGlow)"/>
+
+  <g class="pixel" opacity=".45">
+    <rect x="36" y="150" width="38" height="54" fill="#172554"/>
+    <rect x="82" y="126" width="46" height="78" fill="#1E293B"/>
+    <rect x="142" y="108" width="34" height="96" fill="#172554"/>
+    <rect x="704" y="126" width="48" height="78" fill="#172554"/>
+    <rect x="770" y="94" width="58" height="110" fill="#1E293B"/>
+    <rect x="844" y="136" width="42" height="68" fill="#172554"/>
+    <rect x="900" y="116" width="28" height="88" fill="#1E293B"/>
+  </g>
+
+  <g class="pixel pulse">
+    <rect x="96" y="142" width="6" height="6" fill="#38BDF8"/>
+    <rect x="112" y="158" width="6" height="6" fill="#22C55E"/>
+    <rect x="154" y="128" width="6" height="6" fill="#F43F5E"/>
+    <rect x="790" y="116" width="6" height="6" fill="#38BDF8"/>
+    <rect x="812" y="140" width="6" height="6" fill="#F43F5E"/>
+    <rect x="858" y="154" width="6" height="6" fill="#22C55E"/>
+  </g>
+
+  <g class="pixel float">
+    <rect x="234" y="46" width="4" height="4" fill="#E0F2FE"/>
+    <rect x="302" y="66" width="3" height="3" fill="#93C5FD"/>
+    <rect x="650" y="44" width="4" height="4" fill="#E0F2FE"/>
+    <rect x="734" y="72" width="3" height="3" fill="#93C5FD"/>
+    <rect x="882" y="52" width="4" height="4" fill="#E0F2FE"/>
+  </g>
+
+  <g class="pixel">
+    <rect x="84" y="202" width="792" height="10" fill="#111827"/>
+    <rect x="178" y="188" width="206" height="14" fill="#1F2937"/>
+    <rect x="600" y="188" width="164" height="14" fill="#1F2937"/>
+
+    <rect x="244" y="86" width="170" height="102" rx="6" fill="#111827"/>
+    <rect x="254" y="96" width="150" height="82" fill="#020617"/>
+    <rect x="268" y="112" width="54" height="6" fill="#38BDF8"/>
+    <rect x="268" y="132" width="92" height="6" fill="#22C55E"/>
+    <rect x="268" y="152" width="72" height="6" fill="#F43F5E"/>
+    <rect class="cursor" x="348" y="152" width="8" height="6" fill="#E5E7EB"/>
+
+    <rect x="544" y="72" width="184" height="116" rx="6" fill="#111827"/>
+    <rect x="554" y="82" width="164" height="96" fill="#020617"/>
+    <rect x="568" y="100" width="136" height="6" fill="#1E40AF"/>
+    <rect x="568" y="120" width="86" height="6" fill="#38BDF8"/>
+    <rect x="568" y="140" width="120" height="6" fill="#22C55E"/>
+    <rect class="blink" x="664" y="120" width="40" height="6" fill="#F43F5E"/>
+
+    <rect x="440" y="132" width="68" height="56" fill="#334155"/>
+    <rect x="456" y="102" width="36" height="36" fill="#94A3B8"/>
+    <rect x="466" y="90" width="16" height="16" fill="#CBD5E1"/>
+    <rect x="460" y="116" width="8" height="8" fill="#0F172A"/>
+    <rect x="480" y="116" width="8" height="8" fill="#0F172A"/>
+    <rect x="468" y="130" width="18" height="4" fill="#0F172A"/>
+    <rect x="424" y="150" width="24" height="12" fill="#64748B"/>
+    <rect x="500" y="150" width="32" height="12" fill="#64748B"/>
+    <rect x="430" y="188" width="92" height="14" fill="#1F2937"/>
+  </g>
+
+  <g opacity=".14">
+    <rect class="scan" width="960" height="80" fill="url(#scanline)"/>
+  </g>
+
+  <defs>
+    <radialGradient id="bgGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(480 88) rotate(90) scale(196 568)">
+      <stop stop-color="#0EA5E9" stop-opacity=".28"/>
+      <stop offset=".48" stop-color="#7C3AED" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="scanline" x1="0" x2="0" y1="0" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
